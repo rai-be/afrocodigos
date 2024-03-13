@@ -1,4 +1,3 @@
-/FIZZBUZZ.py
 
 numero = int(input("Escreva um número inteiro positivo: "))
 
